@@ -1,5 +1,5 @@
 <!-- Hogwarts Banner -->
-![Hogwarts Banner](https://your-image-url.com/hogwarts-banner.png)
+![Hogwarts Banner](https://www.canva.com/design/DAFqGXRf04Q/hlmw4Wl71NusMFFzk0MI0Q/edit?utm_content=DAFqGXRf04Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <!-- Hogwarts Introduction -->
 ## ⚡️ Welcome to Hogwarts!
