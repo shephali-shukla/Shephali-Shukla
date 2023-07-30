@@ -1,5 +1,12 @@
-<h2>Hi 👋, I'm Shephali!</h2>
+<img src="https://github.com/shephali-shukla/shephali-shukla/blob/main/assets/banner.gif" />
+<h2 align="center">Hi 👋, I'm Shephali!</h2>
 <h3 align="center">Cloud Apprentice with a Coding Passion ☁️💻</h3>
+
+- 🔭 I’m currently working on [Data Structure and Algorithms](https://github.com/shephali-shukla/Data-Structure-Algorithms-Java)
+
+- 🌱 I’m currently learning **Linux & Bash Scripting**
+
+- 📫 How to reach me **shephalishukla1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
